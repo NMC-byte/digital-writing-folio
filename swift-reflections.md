@@ -61,3 +61,54 @@ My relationship to digital platforms and technology is a strange one. Certainly,
 
 Broadly, I do use technology in writing, hardware and software. I’ve done most of my writing through Google Docs, on a computer. I’ve always found writing through pen and paper tiring, and my handwriting is especially terrible. Unfortunate. Various tools and extension make it easier, such as Grammarly. In the world of E-Literature however, I’m not well versed or experienced in digital writing. The practice of E-Literature is interesting and does intrigue me, though I’ve mostly focused on traditional writing. 
 
+# Week Four 
+## Swift Reflection
+
+### swift-reflection - 15 mins *COMPLETE FOR ASSESSMENT 1 PROCESS DOCUMENTATION (200-400words)
+Note your findings of the exercise above.
+
+Look at the diagrams on p.93 of (Aarseth 1997) reading and the categories: author; narrator; narratee; reader. Look at the diagrams on p. 103 and 104 of (Ryan 2006) reading and the categories of internal v external interactivity and exploratory v ontological interactivity
+
+Q: Can you analyse the architecture (layers, structures, interactions) of the hypertext piece you read above in these terms?
+
+Untitled Document by Tegan Webb follows the story of a character named Sophie, revisiting old memories, friends, and connection. Interacting with the experience is done through text as we can click to change the context of the story. The user can click through each presented option to see the whole scope of the narrative, or choose to omit some dialogue in order to change the context in which the story is presented. I believe the architecture of the whole narrative is presented through a vector with side branches, judging from Ryan’s Diagram presented on p. 103 and 104.
+
+Furthermore, from Aarseth’s diagrams on page 93, Webb’s piece could be best presented with Figure 4.4 (Communication discontinuity. “As the reader jumps discontinuously between the narrative strands, the story seems to slip away and lose focus…” (Aarseth, 1997) I believe this is the same structure Webb used to create Untitled Document. Our understanding and comprehension of Sophie’s story is changed by the extent of our interaction with the piece.
+
+### Class discussion/SWIFT REFLECTION (100-150 words):
+
+While my idea of what I wish my final project to be isn’t fully fleshed out, I do wish to explore a location. Something based in memory. A journey through a character’s psyche in a familiar, yet surreal place. An old school or a park. The protagonist may be a character I just come up with, or more fittingly, maybe someone resembling me. I’ve certainly never been keen on sharing much of myself, but I’m willing. My fears and doubts, everything laid throughout a mausoleum disguised as a familiar place. That’s not to imply those fears have faded, rather just locked away. 
+
+# Week Six 
+
+### Planning session #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
+In the last part of today's class reflect on what you need to do next in your concept development process. Define 3 key tasks, and give yourself a date for completing them.
+
+Following the basis of my initial idea, the core concept will follow the player unravelling a story of his fears, doubts, and regrets through a park. While I believe the concept is solid, there are three tasks I need to focus on to really hone in on what the end result will be.
+
+- Narrative
+The user will be told of this story through items and objects presented in the location, with interactable sprites revealing a memory or association to them. I’ll need to finish writing a narrative to be used on this piece that’ll match well with the method of interaction.
+
+- Technicals
+Likely, I will try my hand at using Twine to create the piece. Of course, I’ll need to properly catch up and watch tutorials to see if my concept is plausible through Twine.
+
+- Locations
+Since I’m likely using a park as the backdrop of much of the rooms, I’ll be needing pictures from a park. Either online or from one nearby, which means I will have to head out and snap a variety of pictures.
+
+# Week Seven 
+
+### First up today: progress check #THIS IS A PROCESS DOCUMENTATION TASK REQUIRED FOR ASS 2#
+Take 10 minutes to complete this in your folio. Last week you defined three tasks you needed to do. How did these go? Did you complete them and if so where did they lead you in your development process? If not, why not? Is this a time management issue or did something else get in the way? Do you need to check in with Jenny or Lucinda about an extension? If so let us know now.
+
+There are two tasks I’ve managed to mostly complete. I’ve made strides in understanding the technical aspects and workings of what I wish to do. I’ve had some practice with Twine, and I’m feeling confident of continuing my work there. It certainly is easy and intuitive to understand. The other task I’ve finished is collecting images for the rooms. I selected a nearby park, which I often frequent, and took a couple of photos that I feel would fit well with the piece I aim to create. The primary issue and last task I’m having difficulty with is the narrative. Mostly, I’m just unsure of what kind of story or themes I’d like to include. Certainly, the main issue is that I overthink too much, on account of my own imposter syndrome. 
+
+## Swift Reflection
+Have you been working with this iterative method? If so, note a particular example of how this method has worked for you as you have been developing your idea. If not, note down something you would like to test and iterate as an immediate next step.
+
+During the development of my project, I used an iterative process by experimenting with different structures in Twine and adjusting them based on how they functioned. One example of iteration occurred when I initially attempted to create several different narrative branches at the beginning of the story for multiple endings. While this idea seemed interesting, it quickly became confusing to manage and made the story difficult to navigate. I realized that too many choices early in the narrative, I feel, weakened the clarity of the experience. As a result, I revised the structure so that the story begins with several main emotional pathways, “Fine” and “Sad,” which then lead to smaller variations later in the narrative. This change made the project easier to design and allowed the reader’s choices to feel more meaningful. 
+
+## Swift Reflection
+What is the purpose of your piece? Was there an inspiration that brought it about? What is the overall vision for your piece (spatially, architecturally) and how do the prototyped four rooms/screens fit into that vision? Have you received feedback on anything that is missing or unclear, that you need to develop further? What are the practical next steps you will take to prepare your work-in-progress for presentation (including presenting in class next week on Wednesday or Thursday and turning in your slides by next Friday 1st May)?
+
+The purpose of my piece is to explore the various narratives that could be explored through a familiar area, but through different lenses of emotions. Inspiration mostly came to me through snippets, an amalgamation of many ideas I tried to refine, but a big part came from early webgames that would have a big focus on the user interacting with objects on screen, like point and click adventure games. Architecturally, the piece would likely follow a flowchart sequence, with the user being able to be thorough with their experience, or omit paths they willingly (or unwillingly) miss. A critical piece of feedback I received is that of the story I wish to tell. I’ve been told that it may be better if it were more personal, from my own experiences and fears. Sitting with the objects I attach narratives to.
+
