@@ -112,3 +112,22 @@ What is the purpose of your piece? Was there an inspiration that brought it abou
 
 The purpose of my piece is to explore the various narratives that could be explored through a familiar area, but through different lenses of emotions. Inspiration mostly came to me through snippets, an amalgamation of many ideas I tried to refine, but a big part came from early webgames that would have a big focus on the user interacting with objects on screen, like point and click adventure games. Architecturally, the piece would likely follow a flowchart sequence, with the user being able to be thorough with their experience, or omit paths they willingly (or unwillingly) miss. A critical piece of feedback I received is that of the story I wish to tell. I’ve been told that it may be better if it were more personal, from my own experiences and fears. Sitting with the objects I attach narratives to.
 
+# Week Ten
+## Swift Reflection
+
+### What place do affect and emotion have in digital works?
+
+In the realm of digital works, affect and emotion aren't simply a method of reading a piece. They are often active and demand non-trivial effort from the user. Digital works can immerse the user in sound, visuals, and/or interactivity, enhancing the overall experience.
+
+### How does bringing theory and/or critical readings into reflective practice enrich discussions of method and practice?
+
+In short, bringing critical readings into practice keeps us from treating digital writing like a gimmick. It connects our personal creative project to a bigger picture of our inner workings as humans, especially more with how we interact with screens, showing that we can act like both a creator and a critic. 
+
+### What narrative arc do you detect in this piece and/or how does adding a narrative frame to reflective writing make a piece more satisfying?
+
+Externally, the piece evokes empathy. A lost loved one, though I felt an internal framing of need. An Inability to let go of ghosts. It’s a feeling everyone is familiar with, regret and the struggles to move on when someone you deeply care about is replaced only with memories or reflections.
+
+## Reflection Draft
+My project, A Walk in the Park, changed quite a bit from my original idea. At first, I imagined it as more of a game where the user would collect items and complete objectives. Over time, I moved toward a more narrative focused approach and decided to explore my own experiences with imposter syndrome.
+One of the biggest things I learned was how closely writing and coding are connected in Twine. I originally thought most of my time would be spent writing, but a lot of the work involved understanding macros, links, and how different passages connect together. I also learned the importance of debugging. Many problems came from small mistakes, such as incorrect names or formatting issues, rather than major problems with the code itself.
+For the visual side of the project, I used screenshots and photos of a local park, then edited them in Photoshop to create interactive elements. The project currently follows a mostly linear path, although there are some choices that allow the user to either engage with or avoid the themes of imposter syndrome.
